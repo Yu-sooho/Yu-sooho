@@ -1,4 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Yu-sooho%2FYu-sooho%2Fhit-counter&count_bg=%black&title_bg=%black&icon=&icon_color=%white&title=hits&edge_flat=false)](https://github.com/Yu-sooho)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Yu-Sooho-8b55852d7b184dd1aeafbbebb25c1264?pvs=4) [![Instagram Badge](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_yusooho/)
 
 Hi! there!
