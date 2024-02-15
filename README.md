@@ -8,9 +8,9 @@ I enjoy developing apps across various platforms to maximize user experience and
 With a passion for new technologies and continuous learning, 
 I strive to stay updated with the latest trends and provide the best solutions.
 
-### Stacks
+## Stacks
 
-##### Language
+#### Language
 ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=black) ![TypeScript Logo](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&color=black) ![Dart Logo](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&color=black) 
-##### Framework
+#### Framework
 ![React Native Logo](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white&color=black)  ![Firebase Logo](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white&color=black) ![Flutter Logo](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&color=black) ![React.js Logo](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white&color=black)
