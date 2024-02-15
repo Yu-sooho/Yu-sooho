@@ -1,4 +1,4 @@
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Yu-Sooho-8b55852d7b184dd1aeafbbebb25c1264?pvs=4) [![Instagram Badge](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_yusooho/)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)]([https://www.notion.so/Yu-Sooho-8b55852d7b184dd1aeafbbebb25c1264?pvs=4](https://tasteful-salamander-30c.notion.site/Yu-Sooho-8b55852d7b184dd1aeafbbebb25c1264)) [![Instagram Badge](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_yusooho/)
 
 Hi! there!
 
